@@ -23,16 +23,16 @@ My name is **John** I'm a 21 years old student from Romania.
  
 ### 🧑‍💻 What I do
  
-   - 💼 Currently, I’m working on projects for my portofolio.
-   - 👀 Trying to learn the MERN stack.
+   - 💼 Currently, I’m working on projects for University.
+   - 👀 Looking for summer internships
    - 📫 You can reach me here: manuioan.com
 ---
  
 ### 💻 Tools and tech stack:
  
-   * **Backend** - C/C++, PHP, Node/Express
+   * **Backend** - C/C++, PHP
    * **Frontend** - HTML5/CSS3, JavaScript, React
-   * **Datastores** - MongoDB, MySQL
+   * **Datastores** -MySQL
    * **Tools** - GitHub, VSCode
    * **Other** - Linux (Ubuntu)
  
