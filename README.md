@@ -31,8 +31,8 @@ My name is **John** I'm a 21 years old student from Romania.
 ### 💻 Tools and tech stack:
  
    * **Backend** - C/C++, PHP
-   * **Frontend** - HTML5/CSS3, JavaScript, React
-   * **Datastores** -MySQL
+   * **Frontend** - HTML5/CSS3, JavaScript, Angular
+   * **Datastores** -SQL(MySQL)
    * **Tools** - GitHub, VSCode
    * **Other** - Linux (Ubuntu)
  
