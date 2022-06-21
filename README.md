@@ -23,9 +23,9 @@ My name is **John** I'm a 21 years old student from Romania.
  
 ### 🧑‍💻 What I do
  
-   - 💼 Currently, I’m working on projects for University.
-   - 👀 Looking for summer internships
-   - 📫 You can reach me here: manuioan.com
+   - 💼 Currently, I’m working on a project using Angular.
+   - 👀 Looking for side gigs
+   - 📫 You can see my works and reach me here: manuioan.com
 ---
  
 ### 💻 Tools and tech stack:
