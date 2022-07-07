@@ -32,7 +32,7 @@ My name is **John** I'm a 21 years old student from Romania.
  
    * **Backend** - C/C++, PHP
    * **Frontend** - HTML5/CSS3, JavaScript, Angular
-   * **Datastores** -SQL(MySQL)
+   * **Datastores** -SQL(MySQL, SQLite)
    * **Tools** - GitHub, VSCode
    * **Other** - Linux (Ubuntu)
  
