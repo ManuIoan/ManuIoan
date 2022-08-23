@@ -23,18 +23,18 @@ My name is **John** I'm a 21 years old student from Romania.
  
 ### 🧑‍💻 What I do
  
-   - 💼 Currently, I’m working on a project using Angular and .NET.
+   - 💼 Currently, I’m working on a project using Angular and .NET
    - 👀 Looking for side gigs
    - 📫 You can see my works and reach me here: manuioan.com
 ---
  
 ### 💻 Tools and tech stack:
  
-   * **Backend** - C/C++, PHP
-   * **Frontend** - HTML5/CSS3, JavaScript, Angular
-   * **Datastores** -SQL(MySQL, SQLite)
+   * **Backend** - C, PHP, C#(ASP.NET)
+   * **Frontend** - HTML5/CSS3, JavaScript(ES6), Angular
+   * **Datastores** -SQL(MySQL, SQL Server)
    * **Tools** - GitHub, VSCode
-   * **Other** - Linux (Ubuntu)
+   * **Other** - Linux (Ubuntu), Azure
  
 ---
 
