@@ -23,7 +23,7 @@ My name is **John** I'm a 21 years old student from Romania.
  
 ### 🧑‍💻 What I do
  
-   - 💼 Currently, I’m working on a project using Angular and .NET
+   - 💼 Currently, I’m working on a project using Angular and .NET6
    - 👀 Looking for side gigs
    - 📫 You can see my works and reach me here: manuioan.com
 ---
