@@ -30,9 +30,9 @@ My name is **John** I'm a 21 years old student from Romania.
  
 ### 💻 Tools and tech stack:
  
-   * **Backend** - C, PHP, C#(ASP.NET)
-   * **Frontend** - HTML5/CSS3, JavaScript(ES6), Angular
-   * **Datastores** -SQL(MySQL, SQL Server)
+   * **Backend** - C, PHP, C#(.NET Framework, MVC)
+   * **Frontend** - HTML5/CSS3, JavaScript(ES6), Angular, Razor Pages
+   * **Datastores** -SQL(MySQL, SQL Server, Entity Framework)
    * **Tools** - GitHub, VSCode
    * **Other** - Linux (Ubuntu), Azure
  
