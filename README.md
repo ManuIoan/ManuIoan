@@ -40,4 +40,4 @@ My name is **John** I'm a 21 years old student from Romania.
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManuIoan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManuIoan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuIoan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
