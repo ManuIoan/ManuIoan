@@ -4,7 +4,7 @@
  
 
  
-My name is **John** I'm a 22 years old student from Romania.
+My name is **John** I'm a 22 years old developer from Romania.
  
 <p align="center">
    <a href="https://www.instagram.com/ioan_manu/" target="_blank">
@@ -23,14 +23,14 @@ My name is **John** I'm a 22 years old student from Romania.
  
 ### 🧑‍💻 What I do
  
-   - 💼 Currently, I’m working on a project using Angular and .NET6
+   - 💼 Currently, I’m working on different projects using Rust, Angular, PHP and .NET6 as the main technologies
    - 👀 Looking for side gigs
    - 📫 You can see my works and reach me here: -----
 ---
  
 ### 💻 Tools and tech stack:
  
-   * **Backend** - C, PHP, C#(.NET Framework, MVC)
+   * **Backend** - Rust, PHP, C#(.NET Framework, MVC)
    * **Frontend** - HTML5/CSS3, JavaScript(ES6), Angular, Razor Pages
    * **Datastores** -SQL(MySQL, SQL Server, Entity Framework)
    * **Tools** - GitHub, VSCode
